@@ -1,0 +1,3 @@
+"""Photography Plus Save Editor V2."""
+
+__version__ = "2.0.0"

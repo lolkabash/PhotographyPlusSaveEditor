@@ -1,0 +1,656 @@
+[
+  {
+    "name": "AriralCampfire",
+    "category": "mundane",
+    "icon": "AriralCampfire.png",
+    "hint_short": "A landmark of sorts. A fire hazard."
+  },
+  {
+    "name": "AriralShipGlow",
+    "category": "mundane",
+    "icon": "AriralShipGlow.png",
+    "hint_short": "VeryMissable_A certain ship's glow, as seen from within your base's windows..."
+  },
+  {
+    "name": "BunkerRoom",
+    "category": "mundane",
+    "icon": "BunkerRoom.png",
+    "hint_short": "You need to collect a keycard before you can use THESE doors!"
+  },
+  {
+    "name": "BunkerSiren",
+    "category": "mundane",
+    "icon": "BunkerSiren.png",
+    "hint_short": "A prominent Alpha Bunker feature. Often photographed by accident."
+  },
+  {
+    "name": "CardboardGray",
+    "category": "mundane",
+    "icon": "CardboardGray.png",
+    "hint_short": "A very spooky cutout. Has to be summoned."
+  },
+  {
+    "name": "CaveBlockage",
+    "category": "mundane",
+    "icon": "CaveBlockage.png",
+    "hint_short": "A roadblock made of straw."
+  },
+  {
+    "name": "Deer",
+    "category": "mundane",
+    "icon": "Deer.png",
+    "hint_short": "Forest wildlife with an opacity problem."
+  },
+  {
+    "name": "Dingus",
+    "category": "mundane",
+    "icon": "Dingus.png",
+    "hint_short": "A friendly feline that is summoned when you type out its name somewhere."
+  },
+  {
+    "name": "DingusDies",
+    "category": "mundane",
+    "icon": "DingusDies.png",
+    "hint_short": "When you get too eager petting a cat..."
+  },
+  {
+    "name": "EriePlush",
+    "category": "mundane",
+    "icon": "EriePlush.png",
+    "hint_short": "A marked zone. A bag of meat. The right timing."
+  },
+  {
+    "name": "FreezerDoor",
+    "category": "mundane",
+    "icon": "FreezerDoor.png",
+    "hint_short": "...it's the freezer door. You still haven't gotten this one?"
+  },
+  {
+    "name": "GhostCar",
+    "category": "mundane",
+    "icon": "GhostCar.png",
+    "hint_short": "Very rarely, when you approach a transformer..."
+  },
+  {
+    "name": "GoatStatue",
+    "category": "mundane",
+    "icon": "GoatStatue.png",
+    "hint_short": "A landmark of a caprine fellow."
+  },
+  {
+    "name": "GreenBunker",
+    "category": "mundane",
+    "icon": "GreenBunker.png",
+    "hint_short": "An inaccessible bunker in a fenced area."
+  },
+  {
+    "name": "KelSelfie",
+    "category": "mundane",
+    "icon": "KelSelfie.png",
+    "hint_short": "The first thing that comes to mind when it comes to security camera photos."
+  },
+  {
+    "name": "KerfurOmega",
+    "category": "mundane",
+    "icon": "KerfurOmega.png",
+    "hint_short": "A robotic assistant, painstakingly upgraded."
+  },
+  {
+    "name": "LakeSafe",
+    "category": "mundane",
+    "icon": "LakeSafe.png",
+    "hint_short": "Deep underwater, safeguarding a precious component..."
+  },
+  {
+    "name": "MeatPile",
+    "category": "mundane",
+    "icon": "MeatPile.png",
+    "hint_short": "A trash pile of the unsettling variety."
+  },
+  {
+    "name": "Nest",
+    "category": "mundane",
+    "icon": "Nest.png",
+    "hint_short": "What, don't you have an apiarist suit handy?"
+  },
+  {
+    "name": "PaperGray",
+    "category": "mundane",
+    "icon": "PaperGray.png",
+    "hint_short": "An arts and crafts project made into a prank."
+  },
+  {
+    "name": "Poo",
+    "category": "mundane",
+    "icon": "Poo.png",
+    "hint_short": "The product of a bucket and sheer desperation."
+  },
+  {
+    "name": "RadBarrel",
+    "category": "mundane",
+    "icon": "RadBarrel.png",
+    "hint_short": "A dangerous waste product somewhere in the river."
+  },
+  {
+    "name": "RiverCar",
+    "category": "mundane",
+    "icon": "RiverCar.png",
+    "hint_short": "A wreck somewhere in the river."
+  },
+  {
+    "name": "Stonehenge",
+    "category": "mundane",
+    "icon": "Stonehenge.png",
+    "hint_short": "An arrangement of stone arches, where the forest thickens."
+  },
+  {
+    "name": "TrailerPark",
+    "category": "mundane",
+    "icon": "TrailerPark.png",
+    "hint_short": "A collection of abandoned bunkhouses and excavators."
+  },
+  {
+    "name": "TreeHouse",
+    "category": "mundane",
+    "icon": "TreeHouse.png",
+    "hint_short": "A home away from home."
+  },
+  {
+    "name": "Village",
+    "category": "mundane",
+    "icon": "Village.png",
+    "hint_short": "A place to live within a fenced area. Strange markings."
+  },
+  {
+    "name": "WalkingMannequin",
+    "category": "mundane",
+    "icon": "WalkingMannequin.png",
+    "hint_short": "Weird furniture turned sentient annoyance."
+  },
+  {
+    "name": "WendigoShack",
+    "category": "mundane",
+    "icon": "WendigoShack.png",
+    "hint_short": "A very cozy place to live in if it wasn't abandoned, trashed, and probably cursed."
+  },
+  {
+    "name": "AlienFruit",
+    "category": "spooky",
+    "icon": "AlienFruit.png",
+    "hint_short": "A strange fruit with an odd coloration."
+  },
+  {
+    "name": "AngryErie",
+    "category": "spooky",
+    "icon": "AngryErie.png",
+    "hint_short": "Missable_When a sentient doll meets searing heat... extremely ill-advised."
+  },
+  {
+    "name": "AntiBreather",
+    "category": "spooky",
+    "icon": "AntiBreather.png",
+    "hint_short": "A cave dweller of sorts. Scary-looking, but not aggressive."
+  },
+  {
+    "name": "AquaWisp",
+    "category": "spooky",
+    "icon": "AquaWisp.png",
+    "hint_short": "A peculiar, sparkling inhabitant of the forest. Comes in aqua."
+  },
+  {
+    "name": "ArgemStatue",
+    "category": "spooky",
+    "icon": "ArgemStatue.png",
+    "hint_short": "A familiar statue... (left)"
+  },
+  {
+    "name": "AriralDecloaked",
+    "category": "spooky",
+    "icon": "AriralDecloaked.png",
+    "hint_short": "An impossible photo to take... right?"
+  },
+  {
+    "name": "AriralGun",
+    "category": "spooky",
+    "icon": "AriralGun.png",
+    "hint_short": "Missable_A clumsy alien's weapon."
+  },
+  {
+    "name": "AriralWaterGun",
+    "category": "spooky",
+    "icon": "AriralWaterGun.png",
+    "hint_short": "An alien cleaning utensil."
+  },
+  {
+    "name": "BlackFog",
+    "category": "spooky",
+    "icon": "BlackFog.png",
+    "hint_short": "An unnatural fog. May house certain denizens."
+  },
+  {
+    "name": "BlackFogEyesAngy",
+    "category": "spooky",
+    "icon": "BlackFogEyesAngy.png",
+    "hint_short": "A fog denizen. Angry!"
+  },
+  {
+    "name": "BlackFogEyesNormal",
+    "category": "spooky",
+    "icon": "BlackFogEyesNormal.png",
+    "hint_short": "A fog denizen, somehow not aggravated."
+  },
+  {
+    "name": "BlackHole",
+    "category": "spooky",
+    "icon": "BlackHole.png",
+    "hint_short": "VeryMissable_A replacement for the sun. A prank gone wrong?"
+  },
+  {
+    "name": "BlackWisp",
+    "category": "spooky",
+    "icon": "BlackWisp.png",
+    "hint_short": "A peculiar, sparkling inhabitant of the forest. Comes in black."
+  },
+  {
+    "name": "BlueShrimp",
+    "category": "spooky",
+    "icon": "BlueShrimp.png",
+    "hint_short": "Alien fauna. A tasty gift."
+  },
+  {
+    "name": "BlueWisp",
+    "category": "spooky",
+    "icon": "BlueWisp.png",
+    "hint_short": "A peculiar, sparkling inhabitant of the forest. Comes in blue."
+  },
+  {
+    "name": "DreamPhoto",
+    "category": "spooky",
+    "icon": "DreamPhoto.png",
+    "hint_short": "Where the world is black and white, where a camera has to be smuggled..."
+  },
+  {
+    "name": "ElevatorPic",
+    "category": "spooky",
+    "icon": "ElevatorPic.png",
+    "hint_short": "The feed of a certain camera. Must be fast on the draw."
+  },
+  {
+    "name": "ErieStatue",
+    "category": "spooky",
+    "icon": "ErieStatue.png",
+    "hint_short": "A familiar statue... (right)"
+  },
+  {
+    "name": "EyeMoon",
+    "category": "spooky",
+    "icon": "EyeMoon.png",
+    "hint_short": "You ever feel like the moon is staring you down?"
+  },
+  {
+    "name": "FireTank",
+    "category": "spooky",
+    "icon": "FireTank.png",
+    "hint_short": "Missable_A dangerous alien construct. A good source of fuel?"
+  },
+  {
+    "name": "FireTankCorpse",
+    "category": "spooky",
+    "icon": "FireTankCorpse.png",
+    "hint_short": "Missable_The wreck of a flame-breathing machine."
+  },
+  {
+    "name": "FleshCave",
+    "category": "spooky",
+    "icon": "FleshCaves.png",
+    "hint_short": "Somewhere deep, deep underground..."
+  },
+  {
+    "name": "FleshRoom",
+    "category": "spooky",
+    "icon": "FleshRoom.png",
+    "hint_short": "The point of view of a friend who's recently disappeared."
+  },
+  {
+    "name": "FlyingSaucer",
+    "category": "spooky",
+    "icon": "FlyingSaucer.png",
+    "hint_short": "Yet another UFO."
+  },
+  {
+    "name": "Fossilhound",
+    "category": "spooky",
+    "icon": "Fossilhound.png",
+    "hint_short": "Man's best friend. Not so much posthumously."
+  },
+  {
+    "name": "Furfur",
+    "category": "spooky",
+    "icon": "FurFur.png",
+    "hint_short": "A forest denizen. May leave effigies around."
+  },
+  {
+    "name": "FurfurAltar",
+    "category": "spooky",
+    "icon": "FurFurAltar.png",
+    "hint_short": "A small, hidden altar. A piece, or the full object."
+  },
+  {
+    "name": "GeomOvoid",
+    "category": "spooky",
+    "icon": "GeomOvoid.png",
+    "hint_short": "A peculiarly shaped UFO. Descends alone or in a large group. Will flee to the skies if approached."
+  },
+  {
+    "name": "GhostDeer",
+    "category": "spooky",
+    "icon": "GhostDeer.png",
+    "hint_short": "Not quite a corpse... Getting rid of it can cause indigestion."
+  },
+  {
+    "name": "GravityGun",
+    "category": "spooky",
+    "icon": "GravityGun.png",
+    "hint_short": "A gravity-manipulating tool."
+  },
+  {
+    "name": "GrayBoar",
+    "category": "spooky",
+    "icon": "GrayBoar.png",
+    "hint_short": "Missable_An abominable cyborg, overrunning the forest in search of threats."
+  },
+  {
+    "name": "GrayFigure",
+    "category": "spooky",
+    "icon": "GrayFigure.png",
+    "hint_short": "VeryMissable_An antagonistic alien. Thwarts your attempts to get up close."
+  },
+  {
+    "name": "GreenFire",
+    "category": "spooky",
+    "icon": "GreenFire.png",
+    "hint_short": "Missable_Will make sure you get a good look at it. Trapped in a fenced area."
+  },
+  {
+    "name": "GreenWisp",
+    "category": "spooky",
+    "icon": "GreenWisp.png",
+    "hint_short": "A peculiar, sparkling inhabitant of the forest. Comes in green."
+  },
+  {
+    "name": "Grunt",
+    "category": "spooky",
+    "icon": "Grunt.png",
+    "hint_short": "Somewhere in Nevada..."
+  },
+  {
+    "name": "Hell",
+    "category": "spooky",
+    "icon": "Hell.png",
+    "hint_short": "A dimensional dead end... right?"
+  },
+  {
+    "name": "HoleDevice",
+    "category": "spooky",
+    "icon": "HoleDevice.png",
+    "hint_short": "VeryMissable_A peculiar device in action and its overseer, within a fenced area."
+  },
+  {
+    "name": "Jellyfish",
+    "category": "spooky",
+    "icon": "Jellyfish.png",
+    "hint_short": "A group of them is called a \"smack\". Lives in the air instead of the water."
+  },
+  {
+    "name": "Kavotia",
+    "category": "spooky",
+    "icon": "Kavotia.png",
+    "hint_short": "VeryMissable_A lowly tripedal machine, guarding a certain fenced area."
+  },
+  {
+    "name": "KillerWisp",
+    "category": "spooky",
+    "icon": "KillerWisp.png",
+    "hint_short": "Missable_A forecasted threat. An unwanted forest occupant."
+  },
+  {
+    "name": "LakeGlow",
+    "category": "spooky",
+    "icon": "LakeGlow.png",
+    "hint_short": "As deep underwater as you can go..."
+  },
+  {
+    "name": "LambertAltar",
+    "category": "spooky",
+    "icon": "LambertAltar.png",
+    "hint_short": "An altar in a remote place. The shed is the key."
+  },
+  {
+    "name": "MurderKerfur",
+    "category": "spooky",
+    "icon": "MurderKerfur.png",
+    "hint_short": "A long lost friend. Part machine and part flesh."
+  },
+  {
+    "name": "MushroomDuende",
+    "category": "spooky",
+    "icon": "MushroomDuende.png",
+    "hint_short": "Not fauna nor flora, yet still a living organism."
+  },
+  {
+    "name": "Nisse",
+    "category": "spooky",
+    "icon": "Nisse.png",
+    "hint_short": "A folkloric household spirit. Only appears during a certain festivity..."
+  },
+  {
+    "name": "Obelisk",
+    "category": "spooky",
+    "icon": "Obelisk.png",
+    "hint_short": "A warning sign. The bane of well-furnished bases."
+  },
+  {
+    "name": "OrangeWisp",
+    "category": "spooky",
+    "icon": "OrangeWisp.png",
+    "hint_short": "A peculiar, sparkling inhabitant of the forest. Comes in orange."
+  },
+  {
+    "name": "PinkWisp",
+    "category": "spooky",
+    "icon": "PinkWisp.png",
+    "hint_short": "A peculiar, sparkling inhabitant of the forest. Comes in pink."
+  },
+  {
+    "name": "Piramid",
+    "category": "spooky",
+    "icon": "Piramid.png",
+    "hint_short": "VeryMissable_A pyramidal protector. Permanently disposes of a certain threat."
+  },
+  {
+    "name": "PurpleWisp",
+    "category": "spooky",
+    "icon": "PurpleWisp.png",
+    "hint_short": "A peculiar, sparkling inhabitant of the forest. Comes in purple."
+  },
+  {
+    "name": "Ramiel",
+    "category": "spooky",
+    "icon": "Ramiel.png",
+    "hint_short": "A floating polyhedron. Audible from afar."
+  },
+  {
+    "name": "RedSky",
+    "category": "spooky",
+    "icon": "RedSky.png",
+    "hint_short": "A strange environmental event. Tints the night sky."
+  },
+  {
+    "name": "RedWisp",
+    "category": "spooky",
+    "icon": "RedWisp.png",
+    "hint_short": "A peculiar, sparkling inhabitant of the forest. Comes in red."
+  },
+  {
+    "name": "RozitalBeacon",
+    "category": "spooky",
+    "icon": "RozitalBeacon.png",
+    "hint_short": "VeryMissable_Unassuming beacons, their signal reaching into the skies..."
+  },
+  {
+    "name": "RozitalEngine",
+    "category": "spooky",
+    "icon": "RozitalEngine.png",
+    "hint_short": "Missable_An alien engine at the outskirts of the map."
+  },
+  {
+    "name": "RozitalEngineBeam",
+    "category": "spooky",
+    "icon": "RozitalEngineBeam.png",
+    "hint_short": "VeryMissable_Wouldn't you photograph a gigantic purple beam on the horizon anyway?"
+  },
+  {
+    "name": "RozitalScout",
+    "category": "spooky",
+    "icon": "RozitalScout.png",
+    "hint_short": "VeryMissable_A pack of robotic scouts. Dangerous when provoked."
+  },
+  {
+    "name": "RozitalShip",
+    "category": "spooky",
+    "icon": "RozitalShip.png",
+    "hint_short": "VeryMissable_A passerby UFO of the \"imposing and loud\" variety."
+  },
+  {
+    "name": "Rufus",
+    "category": "spooky",
+    "icon": "Rufus.png",
+    "hint_short": "A cartoonish-looking creature of nightmares, summoned via typing its name."
+  },
+  {
+    "name": "RufusCorpse",
+    "category": "spooky",
+    "icon": "RufusCorpse.png",
+    "hint_short": "The corpse of a certain creature of nightmares."
+  },
+  {
+    "name": "ShitDuende",
+    "category": "spooky",
+    "icon": "ShitDuende.png",
+    "hint_short": "An alien who just wants to be left alone."
+  },
+  {
+    "name": "Skerfuro",
+    "category": "spooky",
+    "icon": "Skerfuro.png",
+    "hint_short": "A window passerby. Blink and you'll miss it. No, not the bat."
+  },
+  {
+    "name": "SkyPiece",
+    "category": "spooky",
+    "icon": "SkyPiece.png",
+    "hint_short": "A piece of the sky..."
+  },
+  {
+    "name": "Soltomia",
+    "category": "spooky",
+    "icon": "Soltomia.png",
+    "hint_short": "VeryMissable_A shy robot on vehicle-cleaning duty."
+  },
+  {
+    "name": "SpookyEventPhoto",
+    "category": "spooky",
+    "icon": "SpookyEventPhoto.png",
+    "hint_short": "Nothing. There's nothing here. Stop looking."
+  },
+  {
+    "name": "TeleportChamber",
+    "category": "spooky",
+    "icon": "TeleportChamber.png",
+    "hint_short": "A slice of a room from a terrible accident. Makes its presence known."
+  },
+  {
+    "name": "TheDoor",
+    "category": "spooky",
+    "icon": "TheDoor.png",
+    "hint_short": "A mysterious entrance. Closes when you get near. "
+  },
+  {
+    "name": "TheEvil",
+    "category": "spooky",
+    "icon": "TheEvil.png",
+    "hint_short": "When the world is in peril..."
+  },
+  {
+    "name": "Thiccfus",
+    "category": "spooky",
+    "icon": "Thiccfus.png",
+    "hint_short": "A... corpulent-looking creature of nightmares, summoned via typing its name."
+  },
+  {
+    "name": "UfoBallfo",
+    "category": "spooky",
+    "icon": "UfoBallfo.png",
+    "hint_short": "A run-of-the-mill trio of UFOs."
+  },
+  {
+    "name": "UfoBoofo",
+    "category": "spooky",
+    "icon": "UfoBoofo.png",
+    "hint_short": "A run-of-the-mill UFO. Crescent moon shaped."
+  },
+  {
+    "name": "UfoHoel",
+    "category": "spooky",
+    "icon": "UfoHoel.png",
+    "hint_short": "A thick fog comes with it. Has stringent distance requirements."
+  },
+  {
+    "name": "UfoPillfo",
+    "category": "spooky",
+    "icon": "UfoPillfo.png",
+    "hint_short": "A run-of-the-mill UFO. Pill shaped."
+  },
+  {
+    "name": "WarpArrow",
+    "category": "spooky",
+    "icon": "WarpArrow.png",
+    "hint_short": "Featured on the believer's poster. Knows when you get near."
+  },
+  {
+    "name": "WhiteWisp",
+    "category": "spooky",
+    "icon": "WhiteWisp.png",
+    "hint_short": "A peculiar, sparkling inhabitant of the forest. Comes in white."
+  },
+  {
+    "name": "Wolfgang",
+    "category": "spooky",
+    "icon": "Wolfgang.png",
+    "hint_short": "A certain cave-dwelling, pumpkin-liking arthropod."
+  },
+  {
+    "name": "WolfgangEggs",
+    "category": "spooky",
+    "icon": "WolfgangEggs.png",
+    "hint_short": "An arthropod in its nest."
+  },
+  {
+    "name": "WolfgangJr",
+    "category": "spooky",
+    "icon": "WolfgangJr.png",
+    "hint_short": "The spawn of a cave-dwelling arthropod."
+  },
+  {
+    "name": "WorldBorder",
+    "category": "spooky",
+    "icon": "WorldBorder.png",
+    "hint_short": "At the edge of the world..."
+  },
+  {
+    "name": "zPhoto",
+    "category": "spooky",
+    "icon": "zPhoto.png",
+    "hint_short": "Eventually..."
+  }
+]
