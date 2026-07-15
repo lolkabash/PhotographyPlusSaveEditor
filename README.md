@@ -1,4 +1,4 @@
-# Photography Plus Save Editor V2
+# Photography Plus Save Editor
 
 A simple recovery tool for rebuilding Photography Plus photo-to-entity mappings
 in Voices of the Void.

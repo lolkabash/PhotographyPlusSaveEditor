@@ -16,6 +16,7 @@ from ..paths import (
     PROGRESS_PATH,
     SETTINGS_PATH,
     USER_DATA_DIRECTORY,
+    VOTV_SAVE_DIRECTORY,
 )
 from ..services.photo_archive import extract_photo_archive
 from ..services.pp_save import build_pp_save, load_pp_labels
@@ -509,7 +510,7 @@ class MainWindow:
 
     @staticmethod
     def _initial_directory(path_text: str) -> str:
-        path = Path(path_text) if path_text else Path.home()
+        path = Path(path_text) if path_text else VOTV_SAVE_DIRECTORY
         return str(path.parent if path.suffix else path)
 
     def close(self) -> None:
